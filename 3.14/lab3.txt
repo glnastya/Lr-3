@@ -1,0 +1,6 @@
+C 		K 		F 		 
+10		283.15		42		
+-243.15		30		-211.15		
+Max temperature = 10C
+Min temperature = -243.15C
+Mean temperature = -116.575C

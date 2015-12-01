@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1448002049 source:d:\univer\c++\lr3\3.9\3.10.cpp
+	"sdt.h"
+	"convert.h"
+
+1443159459 d:\univer\c++\lr3\3.9\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1448008248 d:\univer\c++\lr3\3.9\convert.h
+
+1448008251 source:d:\univer\c++\lr3\3.9\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1448001574 source:d:\univer\c++\lr3\3.9\tempreture.cpp
+	"sdt.h"
+	"convert.h"
+
+1448002609 source:f:\À-02-13\c++\lr3\3.9\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1443159459 f:\À-02-13\c++\lr3\3.9\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1448008248 f:\À-02-13\c++\lr3\3.9\convert.h
+
+1448002049 source:f:\À-02-13\c++\lr3\3.9\3.10.cpp
+	"sdt.h"
+	"convert.h"
+
+1448001574 source:f:\À-02-13\c++\lr3\3.9\tempreture.cpp
+	"sdt.h"
+	"convert.h"
+

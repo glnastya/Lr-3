@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1447879126 source:d:\univer\c++\lr3\3.6\3.6.cpp
+	"sdt.h"
+	"convert.h"
+
+1447879126 source:d:\univer\c++\lr3\3.6\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1443159459 d:\univer\c++\lr3\3.6\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1447879204 d:\univer\c++\lr3\3.6\convert.h
+
